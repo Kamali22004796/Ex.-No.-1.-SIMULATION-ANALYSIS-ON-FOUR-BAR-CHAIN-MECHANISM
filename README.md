@@ -55,8 +55,11 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+![244603512-ebc8bf94-fee0-4b45-aa0d-48c58325fed7](https://github.com/Kamali22004796/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120567837/c775c3ba-4d85-4f74-9f51-636fd2c6df6d)
+
+
+### Name: E kamali 
+### Register Number: 212222110015
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
